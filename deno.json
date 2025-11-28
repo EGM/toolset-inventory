@@ -1,0 +1,1 @@
+{"importMap":"./import_map.json","tasks":{"start":"deno run --allow-net --allow-read --allow-env src/server.ts","dev":"deno task start","fmt":"deno fmt","lint":"deno lint","test":"deno test"}}
